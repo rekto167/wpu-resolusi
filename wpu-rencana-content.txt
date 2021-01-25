@@ -17,7 +17,7 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
-  ^ Django
+  ^ Django 3 x PostgreSQL
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
 - Membuat sistem blog (cms) lengkap
